@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Damco Solutions](https://www.damcogroup.com/)
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently learning **System Architecture / System Design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sajeedkannoje](https://github.com/sajeedkannoje)
 
