@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Damco Solutions](https://www.damcogroup.com/)
+- 🔭 I’m currently working at [Damco Solutions](https://www.damcogroup.com/)
 
 - 🌱 I’m currently learning **System Architecture / System Design**
 
